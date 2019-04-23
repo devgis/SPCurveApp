@@ -1,0 +1,6 @@
+D:\temp\CurveApp\TestSendData\obj\Debug\TestSendData.csprojAssemblyReference.cache
+D:\temp\CurveApp\TestSendData\obj\Debug\TestSendData.csproj.CoreCompileInputs.cache
+D:\temp\CurveApp\TestSendData\bin\Debug\TestSendData.exe
+D:\temp\CurveApp\TestSendData\bin\Debug\TestSendData.pdb
+D:\temp\CurveApp\TestSendData\obj\Debug\TestSendData.exe
+D:\temp\CurveApp\TestSendData\obj\Debug\TestSendData.pdb
